@@ -20,3 +20,8 @@ https://www.google.com/search?q=icon&oq=icon&aqs=chrome..69i57j0i67l3j0i67i433j0
 
 </a>&nbsp;&nbsp;&nbsp;<a href="mailto:corajanemeade@gmail.com"><img src="https://img.shields.io/badge/Email-cary-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
 -->
+
+<p align="center">
+<img src="images/AppDemo.png" width="230"  title="Word Guess">
+</p>
+
