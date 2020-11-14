@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 <!--
 https://www.google.com/search?q=icon&oq=icon&aqs=chrome..69i57j0i67l3j0i67i433j0i67j46i175i199i433j0i433.3330j0j7&sourceid=chrome&ie=UTF-8
-
+-->
 
 
 <p align="center">
-<img src="https://github.com/cora-personal/cora-personal.github.io/blob/main/images/AppDemo.png" width="230"  title="Checklists">
+<img src="https://github.com/cora-personal/cora-personal.github.io/blob/main/images/AppDemo.png" width="500"  title="Checklists">
 </p>
 
