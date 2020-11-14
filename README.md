@@ -22,6 +22,6 @@ https://www.google.com/search?q=icon&oq=icon&aqs=chrome..69i57j0i67l3j0i67i433j0
 -->
 
 <p align="center">
-<img src="images/AppDemo.png" width="230"  title="Word Guess">
+<img src="https://github.com/cora-personal/cora-personal.github.io/blob/main/images/AppDemo.png" width="230"  title="Word Guess">
 </p>
 
